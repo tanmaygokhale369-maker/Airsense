@@ -1,0 +1,14 @@
+{
+  "mae": 20.08,
+  "r2": 0.5758,
+  "lookback": 24,
+  "forecast_hours": 48,
+  "features": [
+    "aqi",
+    "pm25",
+    "pm10",
+    "temperature",
+    "wind_speed"
+  ],
+  "epochs_trained": 40
+}

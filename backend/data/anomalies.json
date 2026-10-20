@@ -1,0 +1,1002 @@
+[
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.7055,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 250.51,
+      "pm10": 395.53,
+      "no2": 158.06,
+      "so2": 54.15,
+      "o3": 97.95,
+      "co": 3.75,
+      "temperature": 43.5,
+      "humidity": 81.9,
+      "wind_speed": 0.6
+    },
+    "timestamp": "2026-03-24T01:36:41.272444",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.705. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.7043,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 246.42,
+      "pm10": 387.84,
+      "no2": 169.68,
+      "so2": 60.17,
+      "o3": 102.84,
+      "co": 3.9,
+      "temperature": 33.6,
+      "humidity": 10.0,
+      "wind_speed": 19.9
+    },
+    "timestamp": "2026-03-24T01:36:41.272512",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.704. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6981,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 201.3,
+      "pm10": 388.27,
+      "no2": 156.51,
+      "so2": 61.01,
+      "o3": 92.22,
+      "co": 3.9,
+      "temperature": 15.3,
+      "humidity": 100.0,
+      "wind_speed": 16.0
+    },
+    "timestamp": "2026-03-24T01:36:41.272563",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.698. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6962,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 250.98,
+      "pm10": 373.05,
+      "no2": 152.94,
+      "so2": 61.84,
+      "o3": 94.52,
+      "co": 3.72,
+      "temperature": 16.7,
+      "humidity": 87.7,
+      "wind_speed": 6.2
+    },
+    "timestamp": "2026-03-24T01:36:41.272609",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.696. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6959,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 228.63,
+      "pm10": 387.06,
+      "no2": 151.6,
+      "so2": 57.8,
+      "o3": 84.87,
+      "co": 3.54,
+      "temperature": 12.0,
+      "humidity": 99.9,
+      "wind_speed": 6.9
+    },
+    "timestamp": "2026-03-24T01:36:41.272653",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.696. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6953,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 237.92,
+      "pm10": 339.56,
+      "no2": 154.58,
+      "so2": 57.62,
+      "o3": 105.11,
+      "co": 3.71,
+      "temperature": 12.1,
+      "humidity": 66.4,
+      "wind_speed": 20.2
+    },
+    "timestamp": "2026-03-24T01:36:41.272695",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.695. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6946,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 232.99,
+      "pm10": 381.95,
+      "no2": 155.4,
+      "so2": 57.71,
+      "o3": 99.22,
+      "co": 3.58,
+      "temperature": 21.9,
+      "humidity": 89.8,
+      "wind_speed": 1.7
+    },
+    "timestamp": "2026-03-24T01:36:41.272739",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.695. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6941,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 220.86,
+      "pm10": 357.08,
+      "no2": 158.84,
+      "so2": 61.09,
+      "o3": 92.64,
+      "co": 3.39,
+      "temperature": 14.2,
+      "humidity": 52.8,
+      "wind_speed": 25.5
+    },
+    "timestamp": "2026-03-24T01:36:41.272781",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.694. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6923,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 259.64,
+      "pm10": 437.19,
+      "no2": 162.21,
+      "so2": 57.14,
+      "o3": 95.46,
+      "co": 3.9,
+      "temperature": 19.7,
+      "humidity": 27.1,
+      "wind_speed": 17.1
+    },
+    "timestamp": "2026-03-24T01:36:41.272825",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.692. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6921,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 226.65,
+      "pm10": 382.12,
+      "no2": 161.93,
+      "so2": 54.89,
+      "o3": 96.74,
+      "co": 4.08,
+      "temperature": 23.7,
+      "humidity": 95.9,
+      "wind_speed": 19.7
+    },
+    "timestamp": "2026-03-24T01:36:41.272867",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.692. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6908,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 212.78,
+      "pm10": 399.12,
+      "no2": 153.33,
+      "so2": 51.09,
+      "o3": 103.03,
+      "co": 4.23,
+      "temperature": 40.4,
+      "humidity": 51.4,
+      "wind_speed": 21.3
+    },
+    "timestamp": "2026-03-24T01:36:41.272908",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.691. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6907,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 223.98,
+      "pm10": 410.72,
+      "no2": 146.5,
+      "so2": 56.8,
+      "o3": 103.57,
+      "co": 3.81,
+      "temperature": 29.3,
+      "humidity": 93.4,
+      "wind_speed": 4.4
+    },
+    "timestamp": "2026-03-24T01:36:41.272964",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.691. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6891,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 216.43,
+      "pm10": 377.34,
+      "no2": 145.91,
+      "so2": 52.06,
+      "o3": 95.34,
+      "co": 3.6,
+      "temperature": 17.0,
+      "humidity": 100.0,
+      "wind_speed": 24.0
+    },
+    "timestamp": "2026-03-24T01:36:41.273015",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.689. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6891,
+    "is_anomaly": true,
+    "likely_cause": "vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 199.52,
+      "pm10": 327.51,
+      "no2": 166.66,
+      "so2": 51.39,
+      "o3": 103.34,
+      "co": 3.77,
+      "temperature": 42.4,
+      "humidity": 98.4,
+      "wind_speed": 21.6
+    },
+    "timestamp": "2026-03-24T01:36:41.273310",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.689. Likely: vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6882,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 239.06,
+      "pm10": 358.99,
+      "no2": 161.37,
+      "so2": 52.72,
+      "o3": 89.41,
+      "co": 4.33,
+      "temperature": 15.8,
+      "humidity": 32.8,
+      "wind_speed": 16.9
+    },
+    "timestamp": "2026-03-24T01:36:41.273391",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.688. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6874,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 249.6,
+      "pm10": 385.31,
+      "no2": 143.91,
+      "so2": 55.07,
+      "o3": 92.35,
+      "co": 4.14,
+      "temperature": 22.6,
+      "humidity": 59.4,
+      "wind_speed": 27.8
+    },
+    "timestamp": "2026-03-24T01:36:41.273442",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.687. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6874,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 235.68,
+      "pm10": 388.51,
+      "no2": 147.06,
+      "so2": 53.35,
+      "o3": 108.58,
+      "co": 4.0,
+      "temperature": 41.4,
+      "humidity": 50.5,
+      "wind_speed": 12.7
+    },
+    "timestamp": "2026-03-24T01:36:41.273488",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.687. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6873,
+    "is_anomaly": true,
+    "likely_cause": "vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 194.37,
+      "pm10": 378.38,
+      "no2": 151.78,
+      "so2": 59.69,
+      "o3": 110.48,
+      "co": 4.03,
+      "temperature": 33.6,
+      "humidity": 57.7,
+      "wind_speed": 17.6
+    },
+    "timestamp": "2026-03-24T01:36:41.273531",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.687. Likely: vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6856,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 223.94,
+      "pm10": 365.68,
+      "no2": 144.3,
+      "so2": 58.18,
+      "o3": 96.07,
+      "co": 3.69,
+      "temperature": 13.0,
+      "humidity": 73.0,
+      "wind_speed": 21.4
+    },
+    "timestamp": "2026-03-24T01:36:41.273577",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.686. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6854,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 233.88,
+      "pm10": 409.8,
+      "no2": 168.43,
+      "so2": 67.49,
+      "o3": 84.24,
+      "co": 4.49,
+      "temperature": 32.9,
+      "humidity": 36.9,
+      "wind_speed": 15.6
+    },
+    "timestamp": "2026-03-24T01:36:41.273746",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.685. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6853,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 239.18,
+      "pm10": 351.79,
+      "no2": 145.77,
+      "so2": 57.14,
+      "o3": 86.56,
+      "co": 4.11,
+      "temperature": 42.2,
+      "humidity": 52.4,
+      "wind_speed": 5.5
+    },
+    "timestamp": "2026-03-24T01:36:41.273850",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.685. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6849,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 242.09,
+      "pm10": 339.41,
+      "no2": 149.64,
+      "so2": 55.91,
+      "o3": 93.95,
+      "co": 3.82,
+      "temperature": 10.5,
+      "humidity": 35.5,
+      "wind_speed": 7.4
+    },
+    "timestamp": "2026-03-24T01:36:41.273904",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.685. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6846,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 234.67,
+      "pm10": 425.72,
+      "no2": 145.85,
+      "so2": 51.32,
+      "o3": 89.63,
+      "co": 4.05,
+      "temperature": 13.8,
+      "humidity": 39.8,
+      "wind_speed": 15.1
+    },
+    "timestamp": "2026-03-24T01:36:41.273950",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.685. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6843,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 240.08,
+      "pm10": 366.25,
+      "no2": 155.51,
+      "so2": 58.6,
+      "o3": 100.6,
+      "co": 3.73,
+      "temperature": 24.2,
+      "humidity": 35.0,
+      "wind_speed": 21.6
+    },
+    "timestamp": "2026-03-24T01:36:41.273994",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.684. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6836,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 236.25,
+      "pm10": 342.97,
+      "no2": 134.71,
+      "so2": 61.48,
+      "o3": 97.04,
+      "co": 3.98,
+      "temperature": 33.8,
+      "humidity": 86.1,
+      "wind_speed": 2.2
+    },
+    "timestamp": "2026-03-24T01:36:41.274036",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.684. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6835,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 216.74,
+      "pm10": 361.83,
+      "no2": 158.74,
+      "so2": 56.25,
+      "o3": 105.58,
+      "co": 4.06,
+      "temperature": 19.5,
+      "humidity": 74.6,
+      "wind_speed": 8.1
+    },
+    "timestamp": "2026-03-24T01:36:41.274079",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.684. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6826,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 223.04,
+      "pm10": 362.57,
+      "no2": 154.86,
+      "so2": 59.44,
+      "o3": 113.72,
+      "co": 4.03,
+      "temperature": 30.6,
+      "humidity": 44.8,
+      "wind_speed": 13.8
+    },
+    "timestamp": "2026-03-24T01:36:41.274120",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.683. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6826,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 227.54,
+      "pm10": 371.7,
+      "no2": 149.66,
+      "so2": 51.78,
+      "o3": 98.82,
+      "co": 4.0,
+      "temperature": 22.2,
+      "humidity": 45.7,
+      "wind_speed": 22.9
+    },
+    "timestamp": "2026-03-24T01:36:41.274162",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.683. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6822,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 235.19,
+      "pm10": 401.88,
+      "no2": 138.98,
+      "so2": 66.11,
+      "o3": 86.77,
+      "co": 3.69,
+      "temperature": 19.5,
+      "humidity": 24.8,
+      "wind_speed": 4.4
+    },
+    "timestamp": "2026-03-24T01:36:41.274223",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.682. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6814,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 263.55,
+      "pm10": 436.79,
+      "no2": 150.02,
+      "so2": 59.0,
+      "o3": 92.35,
+      "co": 3.62,
+      "temperature": 38.8,
+      "humidity": 89.9,
+      "wind_speed": 10.3
+    },
+    "timestamp": "2026-03-24T01:36:41.274272",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6811,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 258.67,
+      "pm10": 354.97,
+      "no2": 153.31,
+      "so2": 57.84,
+      "o3": 91.58,
+      "co": 3.91,
+      "temperature": 20.0,
+      "humidity": 54.3,
+      "wind_speed": 0.0
+    },
+    "timestamp": "2026-03-24T01:36:41.274391",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.681,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 237.58,
+      "pm10": 353.11,
+      "no2": 140.25,
+      "so2": 61.14,
+      "o3": 102.85,
+      "co": 3.48,
+      "temperature": 24.9,
+      "humidity": 88.2,
+      "wind_speed": 23.5
+    },
+    "timestamp": "2026-03-24T01:36:41.274471",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6809,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 247.8,
+      "pm10": 346.47,
+      "no2": 152.51,
+      "so2": 44.31,
+      "o3": 93.64,
+      "co": 3.9,
+      "temperature": 12.2,
+      "humidity": 55.2,
+      "wind_speed": 3.1
+    },
+    "timestamp": "2026-03-24T01:36:41.274524",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6809,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 218.0,
+      "pm10": 385.68,
+      "no2": 136.56,
+      "so2": 54.09,
+      "o3": 86.92,
+      "co": 4.02,
+      "temperature": 17.4,
+      "humidity": 100.0,
+      "wind_speed": 20.7
+    },
+    "timestamp": "2026-03-24T01:36:41.274572",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6808,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 204.07,
+      "pm10": 377.25,
+      "no2": 160.32,
+      "so2": 47.49,
+      "o3": 100.33,
+      "co": 4.31,
+      "temperature": 28.6,
+      "humidity": 13.7,
+      "wind_speed": 20.4
+    },
+    "timestamp": "2026-03-24T01:36:41.274616",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6805,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 264.83,
+      "pm10": 347.39,
+      "no2": 152.43,
+      "so2": 61.93,
+      "o3": 88.16,
+      "co": 3.58,
+      "temperature": 23.2,
+      "humidity": 92.8,
+      "wind_speed": 20.4
+    },
+    "timestamp": "2026-03-24T01:36:41.274661",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.681. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6804,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 232.59,
+      "pm10": 349.48,
+      "no2": 160.45,
+      "so2": 53.45,
+      "o3": 87.56,
+      "co": 3.78,
+      "temperature": 17.3,
+      "humidity": 90.1,
+      "wind_speed": 15.9
+    },
+    "timestamp": "2026-03-24T01:36:41.274703",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.680. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6795,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 222.03,
+      "pm10": 395.76,
+      "no2": 134.62,
+      "so2": 52.47,
+      "o3": 104.21,
+      "co": 3.45,
+      "temperature": 43.5,
+      "humidity": 14.8,
+      "wind_speed": 17.6
+    },
+    "timestamp": "2026-03-24T01:36:41.274745",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.680. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6794,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 225.9,
+      "pm10": 419.75,
+      "no2": 159.02,
+      "so2": 59.71,
+      "o3": 91.91,
+      "co": 3.71,
+      "temperature": 40.3,
+      "humidity": 48.0,
+      "wind_speed": 17.1
+    },
+    "timestamp": "2026-03-24T01:36:41.274786",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6791,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 207.27,
+      "pm10": 422.0,
+      "no2": 148.68,
+      "so2": 54.55,
+      "o3": 98.73,
+      "co": 3.97,
+      "temperature": 33.4,
+      "humidity": 43.5,
+      "wind_speed": 21.2
+    },
+    "timestamp": "2026-03-24T01:36:41.274831",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6789,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 203.73,
+      "pm10": 361.1,
+      "no2": 157.73,
+      "so2": 70.48,
+      "o3": 81.67,
+      "co": 3.77,
+      "temperature": 19.1,
+      "humidity": 96.1,
+      "wind_speed": 8.8
+    },
+    "timestamp": "2026-03-24T01:36:41.274874",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6789,
+    "is_anomaly": true,
+    "likely_cause": "vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 184.09,
+      "pm10": 429.71,
+      "no2": 156.19,
+      "so2": 59.22,
+      "o3": 105.81,
+      "co": 3.75,
+      "temperature": 27.5,
+      "humidity": 100.0,
+      "wind_speed": 16.0
+    },
+    "timestamp": "2026-03-24T01:36:41.274919",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6786,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 236.2,
+      "pm10": 360.09,
+      "no2": 173.73,
+      "so2": 56.94,
+      "o3": 99.13,
+      "co": 3.88,
+      "temperature": 26.9,
+      "humidity": 87.9,
+      "wind_speed": 8.8
+    },
+    "timestamp": "2026-03-24T01:36:41.274962",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6786,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 206.63,
+      "pm10": 397.99,
+      "no2": 170.33,
+      "so2": 55.73,
+      "o3": 95.49,
+      "co": 3.95,
+      "temperature": 33.5,
+      "humidity": 84.5,
+      "wind_speed": 3.7
+    },
+    "timestamp": "2026-03-24T01:36:41.275005",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.679. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6785,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 231.39,
+      "pm10": 384.79,
+      "no2": 138.33,
+      "so2": 62.34,
+      "o3": 105.94,
+      "co": 3.41,
+      "temperature": 26.6,
+      "humidity": 89.1,
+      "wind_speed": 5.3
+    },
+    "timestamp": "2026-03-24T01:36:41.275048",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6784,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 232.9,
+      "pm10": 393.34,
+      "no2": 142.36,
+      "so2": 48.35,
+      "o3": 101.14,
+      "co": 4.27,
+      "temperature": 33.9,
+      "humidity": 60.2,
+      "wind_speed": 4.9
+    },
+    "timestamp": "2026-03-24T01:36:41.275090",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6779,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel",
+    "readings": {
+      "pm25": 210.88,
+      "pm10": 354.21,
+      "no2": 161.09,
+      "so2": 54.19,
+      "o3": 94.44,
+      "co": 4.11,
+      "temperature": 18.9,
+      "humidity": 100.0,
+      "wind_speed": 13.5
+    },
+    "timestamp": "2026-03-24T01:36:41.275139",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission, heavy traffic / diesel."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6779,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 210.98,
+      "pm10": 401.58,
+      "no2": 136.25,
+      "so2": 55.83,
+      "o3": 94.13,
+      "co": 4.0,
+      "temperature": 23.6,
+      "humidity": 27.5,
+      "wind_speed": 22.1
+    },
+    "timestamp": "2026-03-24T01:36:41.275179",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6777,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 229.19,
+      "pm10": 404.9,
+      "no2": 138.34,
+      "so2": 58.7,
+      "o3": 102.8,
+      "co": 3.78,
+      "temperature": 37.7,
+      "humidity": 68.3,
+      "wind_speed": 5.9
+    },
+    "timestamp": "2026-03-24T01:36:41.275219",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission."
+  },
+  {
+    "city": "Delhi",
+    "severity": "CRITICAL",
+    "anomaly_score": -0.6777,
+    "is_anomaly": true,
+    "likely_cause": "crop burning / wildfire, vehicle / industrial emission",
+    "readings": {
+      "pm25": 230.34,
+      "pm10": 352.99,
+      "no2": 145.98,
+      "so2": 53.03,
+      "o3": 97.77,
+      "co": 3.71,
+      "temperature": 43.6,
+      "humidity": 69.6,
+      "wind_speed": 7.4
+    },
+    "timestamp": "2026-03-24T01:36:41.275258",
+    "message": "[CRITICAL] Anomaly detected in Delhi. Score: -0.678. Likely: crop burning / wildfire, vehicle / industrial emission."
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "mae": 1.05,
+  "rmse": 1.66,
+  "r2": 0.9997,
+  "features": [
+    "hour",
+    "month",
+    "day_of_week",
+    "pm25",
+    "pm10",
+    "no2",
+    "so2",
+    "o3",
+    "co",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "is_weekend",
+    "is_rush_hour",
+    "is_winter",
+    "hour_sin",
+    "hour_cos",
+    "pm25_wind_ratio",
+    "city_Bangalore",
+    "city_Chennai",
+    "city_Delhi",
+    "city_Hyderabad",
+    "city_Kolkata",
+    "city_Mumbai"
+  ],
+  "top_features": [
+    "pm25",
+    "pm10",
+    "city_Delhi",
+    "city_Kolkata",
+    "no2",
+    "so2",
+    "is_rush_hour",
+    "pm25_wind_ratio"
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Mumbai",
+    "weather": {
+      "temp": 31.98,
+      "humidity": 37,
+      "wind": 8.23,
+      "pressure": 1008
+    },
+    "timestamp": "2026-03-21T16:16:44.249374"
+  },
+  {
+    "city": "Delhi",
+    "weather": {
+      "temp": 26.05,
+      "humidity": 41,
+      "wind": 3.09,
+      "pressure": 1009
+    },
+    "timestamp": "2026-03-21T16:16:44.709607"
+  },
+  {
+    "city": "Bangalore",
+    "weather": {
+      "temp": 31.4,
+      "humidity": 38,
+      "wind": 2.68,
+      "pressure": 1006
+    },
+    "timestamp": "2026-03-21T16:16:45.183806"
+  },
+  {
+    "city": "Chennai",
+    "weather": {
+      "temp": 31.49,
+      "humidity": 67,
+      "wind": 5.14,
+      "pressure": 1007
+    },
+    "timestamp": "2026-03-21T16:16:45.675051"
+  },
+  {
+    "city": "Kolkata",
+    "weather": {
+      "temp": 23.96,
+      "humidity": 69,
+      "wind": 2.06,
+      "pressure": 1007
+    },
+    "timestamp": "2026-03-21T16:16:46.145178"
+  },
+  {
+    "city": "Hyderabad",
+    "weather": {
+      "temp": 31.3,
+      "humidity": 37,
+      "wind": 3.6,
+      "pressure": 1006
+    },
+    "timestamp": "2026-03-21T16:16:46.628599"
+  }
+]
